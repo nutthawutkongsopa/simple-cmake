@@ -11,7 +11,7 @@
         {
             "label": "cmake build and debug(mingw)",
             "type": "shell",
-            "command": "./debug.sh"
+            "command": "./debug.ps1"
         }
     ]
 }
